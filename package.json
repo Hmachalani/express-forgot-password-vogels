@@ -1,0 +1,110 @@
+{
+  "_args": [
+    [
+      "express-forgot-password-vogels",
+      "/Users/henrim/Documents/projects/mistplay/coinpwn"
+    ],
+    [
+      {
+        "raw": "express-forgot-password-vogels@*",
+        "scope": null,
+        "escapedName": "express-forgot-password-vogels",
+        "name": "express-forgot-password-vogels",
+        "rawSpec": "*",
+        "spec": "*",
+        "type": "range"
+      },
+      "/Users/henrim/Documents/projects/mistplay/coinpwn"
+    ],
+    [
+      {
+        "raw": "express-forgot-password-vogels@*",
+        "scope": null,
+        "escapedName": "express-forgot-password-vogels",
+        "name": "express-forgot-password-vogels",
+        "rawSpec": "*",
+        "spec": "*",
+        "type": "range"
+      },
+      "/Users/henrim/Documents/projects/mistplay/mistplay-backend"
+    ]
+  ],
+  "_from": "express-forgot-password-vogels@*",
+  "_id": "express-forgot-password-vogels@1.2.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/express-forgot-password-vogels",
+  "_nodeVersion": "6.9.1",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/express-forgot-password-vogels-1.2.0.tgz_1489011880514_0.8661102401092649"
+  },
+  "_npmUser": {
+    "name": "hmachalani",
+    "email": "hmachalani@gmail.com"
+  },
+  "_npmVersion": "3.10.8",
+  "_phantomChildren": {
+    "batch": "0.5.0",
+    "bindings": "1.2.1",
+    "buffer-crc32": "0.2.1",
+    "commander": "1.3.2",
+    "directmail": "0.1.8",
+    "he": "0.3.6",
+    "mailcomposer": "0.2.12",
+    "multiparty": "2.2.0",
+    "pause": "0.0.1",
+    "public-address": "0.1.2",
+    "readable-stream": "2.3.3",
+    "simplesmtp": "0.3.35",
+    "uid2": "0.0.3"
+  },
+  "_requested": {
+    "raw": "express-forgot-password-vogels@*",
+    "scope": null,
+    "escapedName": "express-forgot-password-vogels",
+    "name": "express-forgot-password-vogels",
+    "rawSpec": "*",
+    "spec": "*",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/express-forgot-password-vogels/-/express-forgot-password-vogels-1.2.0.tgz",
+  "_shasum": "9ae16995d8c2d254a4a800d475457657edc54079",
+  "_shrinkwrap": null,
+  "_spec": "express-forgot-password-vogels@*",
+  "_where": "/Users/henrim/Documents/projects/mistplay/mistplay-backend",
+  "author": {
+    "name": "Henri Machalani"
+  },
+  "dependencies": {
+    "bcrypt": "~0.8.x",
+    "express": "~3.4.0",
+    "nodemailer": "~0.5.2",
+    "vogels": "2.0.0-rc10"
+  },
+  "description": "Express Forgotton Password sub-app",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "9ae16995d8c2d254a4a800d475457657edc54079",
+    "tarball": "https://registry.npmjs.org/express-forgot-password-vogels/-/express-forgot-password-vogels-1.2.0.tgz"
+  },
+  "license": "BSD",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "hmachalani",
+      "email": "hmachalani@gmail.com"
+    }
+  ],
+  "name": "express-forgot-password-vogels",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.2.0"
+}
